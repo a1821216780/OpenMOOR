@@ -1,0 +1,3 @@
+G:/2026/openmoor-master/build/CMakeFiles/MoorApi.dir
+G:/2026/openmoor-master/build/CMakeFiles/ALL_BUILD.dir
+G:/2026/openmoor-master/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\2026\openmoor-master\build\CMakeFiles\3a4515bfd0f6f8468b7eb1cec0780d8c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8DF69DB5-061A-39FF-AD4E-0CC80B3C3C06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
